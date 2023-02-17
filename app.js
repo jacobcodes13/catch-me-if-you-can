@@ -48,8 +48,8 @@
 // }
 
 // try {
-//   console.log("sam", "123abc");
-//   // console.log("jacob", "1321jj");
+//   console.log(login("sam", "123abc"));
+//   // console.log(login("jacob", "1321jj"));
 // } catch (e) {
 //   console.log(e);
 // }
